@@ -4,12 +4,15 @@
 ---
 
 ## Overview
-**Model Name:** Model  
-**Database:** Bike Share Analysis  
-**Compatibility Level:** 1600  
-**Language:** en-US (English)  
-**Default Mode:** Import  
-**Estimated Size:** ~284 MB
+
+The Bike Share Analysis Dashboard provides a comprehensive view of ride activity across rider types, bike categories, time periods, and usage patterns.
+
+The purpose of this dashboard is to:
+- Monitor total ride performance
+- Understand rider behavior (Member vs Casual)
+- Identify seasonal and daily usage trends
+- Evaluate bike type performance
+- Support operational and strategic decision-making
 
 ---
 
