@@ -1,4 +1,4 @@
-# Bike Share Analysis - Power BI Model Documentation
+# Bike Share Analysis Documentation
 **Generated:** February 14, 2026
 
 ---
